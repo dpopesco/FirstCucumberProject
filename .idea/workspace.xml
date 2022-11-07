@@ -4,20 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2baf27e7-fcbb-44ed-b537-f3f428804456" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Features/Customers.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Features/Login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/AddCustomerPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/Steps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testRunner/TestRun.java" afterDir="false" />
+    <list default="true" id="2baf27e7-fcbb-44ed-b537-f3f428804456" name="Changes" comment="Added 2 scenarios : Search customer by email, search customer by first name and last name">
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/SearchCustomerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/WaitHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Features/Customers.feature" beforeDir="false" afterPath="$PROJECT_DIR$/Features/Customers.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/Steps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/diana/Automation/AutomationPractice"
+    "last_opened_file_path": "/home/diana/Automation/ProjectCucumber"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -117,6 +114,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667201550410</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1667240303015</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667240303016</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,5 +134,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Added 2 scenarios : Search customer by email, search custumer by first name and last name" />
+    <MESSAGE value="Added 2 scenarios : Search customer by email, search customer by first name and last name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 2 scenarios : Search customer by email, search customer by first name and last name" />
   </component>
 </project>
