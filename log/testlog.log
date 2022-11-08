@@ -1,0 +1,92 @@
+2022-11-07 19:56:56,318 -CucumberProject -INFO - ****Launching browser****
+2022-11-07 19:56:56,468 -CucumberProject -INFO - ****Opening url****
+2022-11-07 19:56:58,072 -CucumberProject -INFO - ****Providing login details****
+2022-11-07 19:56:58,531 -CucumberProject -INFO - ****Started login****
+2022-11-07 19:57:17,070 -CucumberProject -INFO - ****Adding a new customer****
+2022-11-07 19:57:25,304 -CucumberProject -INFO - ****Saving customer data****
+2022-11-07 19:57:30,505 -CucumberProject -INFO - ****Closing browser****
+2022-11-07 19:57:32,278 -CucumberProject -INFO - ****Launching browser****
+2022-11-07 19:57:32,287 -CucumberProject -INFO - ****Opening url****
+2022-11-07 19:57:34,356 -CucumberProject -INFO - ****Providing login details****
+2022-11-07 19:57:35,304 -CucumberProject -INFO - ****Started login****
+2022-11-07 19:57:47,468 -CucumberProject -INFO - ****Searching customer by email****
+2022-11-07 19:57:51,603 -CucumberProject -INFO - ****Closing browser****
+2022-11-07 19:57:53,083 -CucumberProject -INFO - ****Launching browser****
+2022-11-07 19:57:53,105 -CucumberProject -INFO - ****Opening url****
+2022-11-07 19:57:55,572 -CucumberProject -INFO - ****Providing login details****
+2022-11-07 19:57:56,409 -CucumberProject -INFO - ****Started login****
+2022-11-07 19:58:08,167 -CucumberProject -INFO - ****Searching customer by name****
+2022-11-07 19:58:12,393 -CucumberProject -INFO - ****Closing browser****
+2022-11-07 19:58:14,004 -CucumberProject -INFO - ****Launching browser****
+2022-11-07 19:58:14,038 -CucumberProject -INFO - ****Opening url****
+2022-11-07 19:58:15,361 -CucumberProject -INFO - ****Providing login details****
+2022-11-07 19:58:15,974 -CucumberProject -INFO - ****Started login****
+2022-11-07 19:58:20,646 -CucumberProject -INFO - ****Login passed****
+2022-11-07 19:58:22,159 -CucumberProject -INFO - ****Login passed****
+2022-11-07 19:58:22,173 -CucumberProject -INFO - ****Closing browser****
+2022-11-07 19:58:23,747 -CucumberProject -INFO - ****Launching browser****
+2022-11-07 19:58:23,761 -CucumberProject -INFO - ****Opening url****
+2022-11-07 19:58:25,969 -CucumberProject -INFO - ****Providing login details****
+2022-11-07 19:58:26,539 -CucumberProject -INFO - ****Started login****
+2022-11-07 19:58:31,107 -CucumberProject -INFO - ****Login passed****
+2022-11-07 19:58:32,868 -CucumberProject -INFO - ****Login passed****
+2022-11-07 19:58:32,900 -CucumberProject -INFO - ****Closing browser****
+2022-11-07 19:58:34,922 -CucumberProject -INFO - ****Launching browser****
+2022-11-07 19:58:34,927 -CucumberProject -INFO - ****Opening url****
+2022-11-07 19:58:37,179 -CucumberProject -INFO - ****Providing login details****
+2022-11-07 19:58:37,806 -CucumberProject -INFO - ****Started login****
+2022-11-07 19:58:39,393 -CucumberProject -INFO - ****Login failed****
+2022-11-08 11:54:05,729 -CucumberProject -INFO - ****Launching browser****
+2022-11-08 11:54:05,784 -CucumberProject -INFO - ****Opening url****
+2022-11-08 11:54:07,274 -CucumberProject -INFO - ****Providing login details****
+2022-11-08 11:54:07,867 -CucumberProject -INFO - ****Started login****
+2022-11-08 11:54:26,879 -CucumberProject -INFO - ****Adding a new customer****
+2022-11-08 11:54:33,746 -CucumberProject -INFO - ****Saving customer data****
+2022-11-08 11:54:38,225 -CucumberProject -INFO - ****Closing browser****
+2022-11-08 11:54:40,118 -CucumberProject -INFO - ****Launching browser****
+2022-11-08 11:54:40,134 -CucumberProject -INFO - ****Opening url****
+2022-11-08 11:54:41,834 -CucumberProject -INFO - ****Providing login details****
+2022-11-08 11:54:42,350 -CucumberProject -INFO - ****Started login****
+2022-11-08 11:54:54,269 -CucumberProject -INFO - ****Searching customer by email****
+2022-11-08 11:54:58,165 -CucumberProject -INFO - ****Closing browser****
+2022-11-08 11:55:00,200 -CucumberProject -INFO - ****Launching browser****
+2022-11-08 11:55:00,208 -CucumberProject -INFO - ****Opening url****
+2022-11-08 11:55:02,283 -CucumberProject -INFO - ****Providing login details****
+2022-11-08 11:55:02,860 -CucumberProject -INFO - ****Started login****
+2022-11-08 11:55:14,179 -CucumberProject -INFO - ****Searching customer by name****
+2022-11-08 11:55:18,122 -CucumberProject -INFO - ****Closing browser****
+2022-11-08 13:32:30,743 -CucumberProject -INFO - ****Launching browser****
+2022-11-08 13:32:30,867 -CucumberProject -INFO - ****Opening url****
+2022-11-08 13:32:33,233 -CucumberProject -INFO - ****Providing login details****
+2022-11-08 13:32:34,165 -CucumberProject -INFO - ****Started login****
+2022-11-08 13:32:58,733 -CucumberProject -INFO - ****Launching browser****
+2022-11-08 13:32:58,740 -CucumberProject -INFO - ****Opening url****
+2022-11-08 13:33:02,885 -CucumberProject -INFO - ****Providing login details****
+2022-11-08 13:33:03,394 -CucumberProject -INFO - ****Started login****
+2022-11-08 13:33:14,075 -CucumberProject -INFO - ****Searching customer by email****
+2022-11-08 13:33:19,071 -CucumberProject -INFO - ****Closing browser****
+2022-11-08 13:33:26,997 -CucumberProject -INFO - ****Launching browser****
+2022-11-08 13:33:27,001 -CucumberProject -INFO - ****Opening url****
+2022-11-08 13:33:29,584 -CucumberProject -INFO - ****Providing login details****
+2022-11-08 13:33:30,041 -CucumberProject -INFO - ****Started login****
+2022-11-08 13:33:40,799 -CucumberProject -INFO - ****Searching customer by name****
+2022-11-08 13:33:45,577 -CucumberProject -INFO - ****Closing browser****
+2022-11-08 13:36:20,410 -CucumberProject -INFO - ****Launching browser****
+2022-11-08 13:36:20,620 -CucumberProject -INFO - ****Opening url****
+2022-11-08 13:36:25,692 -CucumberProject -INFO - ****Providing login details****
+2022-11-08 13:36:26,473 -CucumberProject -INFO - ****Started login****
+2022-11-08 13:36:44,770 -CucumberProject -INFO - ****Adding a new customer****
+2022-11-08 13:36:51,212 -CucumberProject -INFO - ****Saving customer data****
+2022-11-08 13:36:56,283 -CucumberProject -INFO - ****Closing browser****
+2022-11-08 13:37:03,726 -CucumberProject -INFO - ****Launching browser****
+2022-11-08 13:37:03,736 -CucumberProject -INFO - ****Opening url****
+2022-11-08 13:37:05,120 -CucumberProject -INFO - ****Providing login details****
+2022-11-08 13:37:05,519 -CucumberProject -INFO - ****Started login****
+2022-11-08 13:37:17,308 -CucumberProject -INFO - ****Searching customer by email****
+2022-11-08 13:37:22,333 -CucumberProject -INFO - ****Closing browser****
+2022-11-08 13:37:29,601 -CucumberProject -INFO - ****Launching browser****
+2022-11-08 13:37:29,607 -CucumberProject -INFO - ****Opening url****
+2022-11-08 13:37:30,823 -CucumberProject -INFO - ****Providing login details****
+2022-11-08 13:37:31,257 -CucumberProject -INFO - ****Started login****
+2022-11-08 13:37:41,560 -CucumberProject -INFO - ****Searching customer by name****
+2022-11-08 13:37:46,494 -CucumberProject -INFO - ****Closing browser****
